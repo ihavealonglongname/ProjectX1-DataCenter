@@ -1,0 +1,978 @@
+[18:56:47:473] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[18:56:47:477] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[18:56:47:477] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[18:56:47:716] [DEBUG] - org.hibernate.validator.internal.util.logging.LoggerFactory.make(LoggerFactory.java:19) - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+[18:56:49:483] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 2.244 seconds (JVM running for 2.833)
+[18:56:58:807] [DEBUG] - db.DBAccess.Connect(DBAccess.java:21) - データベース接続開始
+[18:56:59:280] [DEBUG] - db.DBAccess.Connect(DBAccess.java:25) - データベース接続成功
+[18:57:29:115] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[18:57:29:115] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[18:57:29:116] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[18:57:29:600] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.522 seconds (JVM running for 42.95)
+[18:57:53:259] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[18:57:53:260] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[18:57:53:260] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[18:57:53:606] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.383 seconds (JVM running for 66.956)
+[18:57:56:199] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[18:57:56:200] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[18:57:56:201] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[18:57:56:699] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.546 seconds (JVM running for 70.049)
+[18:59:47:623] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[18:59:47:623] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[18:59:47:624] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[18:59:47:931] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.338 seconds (JVM running for 181.281)
+[18:59:54:441] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[18:59:54:442] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[18:59:54:442] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[18:59:54:744] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.331 seconds (JVM running for 188.094)
+[19:00:02:697] [DEBUG] - db.DBAccess.Connect(DBAccess.java:21) - データベース接続開始
+[19:00:02:883] [DEBUG] - db.DBAccess.Connect(DBAccess.java:25) - データベース接続成功
+[19:00:02:939] [DEBUG] - db.DBAccess.DisConnect(DBAccess.java:47) - データベース接続解除開始
+[19:00:02:940] [DEBUG] - db.DBAccess.DisConnect(DBAccess.java:49) - データベース接続解除成功
+[19:00:41:429] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:00:41:429] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:00:41:429] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:00:41:711] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.311 seconds (JVM running for 235.061)
+[19:00:48:236] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:00:48:237] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:00:48:237] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:00:48:525] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.316 seconds (JVM running for 241.875)
+[19:01:58:287] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:01:58:288] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:01:58:288] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:01:58:584] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.327 seconds (JVM running for 311.934)
+[19:02:23:157] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:02:23:157] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:02:23:158] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:02:23:453] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.325 seconds (JVM running for 336.802)
+[19:04:46:449] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:04:46:449] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:04:46:449] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:04:46:732] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.307 seconds (JVM running for 480.082)
+[19:06:06:497] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:06:06:498] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:06:06:498] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:06:06:775] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.302 seconds (JVM running for 560.125)
+[19:06:11:295] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:06:11:295] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:06:11:295] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:06:11:532] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.262 seconds (JVM running for 564.883)
+[19:06:33:092] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:06:33:093] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:06:33:093] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:06:33:362] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.299 seconds (JVM running for 586.712)
+[19:08:20:219] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:08:20:219] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:08:20:219] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:08:20:490] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.298 seconds (JVM running for 693.84)
+[19:09:05:160] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:09:05:160] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:09:05:161] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:09:05:439] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.304 seconds (JVM running for 738.789)
+[19:11:38:554] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:11:38:555] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:11:38:555] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:11:38:837] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.31 seconds (JVM running for 892.187)
+[19:11:52:401] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:11:52:402] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:11:52:402] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:11:52:725] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.352 seconds (JVM running for 906.074)
+[19:13:11:521] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:13:11:521] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:13:11:522] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:13:11:774] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.277 seconds (JVM running for 985.124)
+[19:13:23:275] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:13:23:276] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:13:23:276] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:13:23:506] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.254 seconds (JVM running for 996.856)
+[19:14:11:561] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:14:11:561] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:14:11:561] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:14:11:813] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.276 seconds (JVM running for 1045.163)
+[19:14:24:352] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:14:24:356] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:14:24:356] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:14:24:616] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.296 seconds (JVM running for 1057.966)
+[19:14:38:186] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:14:38:186] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:14:38:186] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:14:38:425] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.262 seconds (JVM running for 1071.775)
+[19:14:44:955] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:14:44:955] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:14:44:955] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:14:45:187] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.256 seconds (JVM running for 1078.537)
+[19:14:46:760] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:14:46:761] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:14:46:761] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:14:46:994] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.256 seconds (JVM running for 1080.344)
+[19:15:03:567] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:15:03:567] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:15:03:567] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:15:03:784] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.244 seconds (JVM running for 1097.134)
+[19:18:51:286] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:18:51:287] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:18:51:287] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:18:51:518] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.255 seconds (JVM running for 1324.868)
+[19:18:59:061] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:18:59:061] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:18:59:062] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:18:59:287] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.247 seconds (JVM running for 1332.637)
+[19:19:13:844] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:19:13:844] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:19:13:844] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:19:14:060] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.239 seconds (JVM running for 1347.41)
+[19:19:22:578] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:19:22:578] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:19:22:578] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:19:22:806] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.253 seconds (JVM running for 1356.156)
+[19:19:53:414] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:19:53:415] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:19:53:415] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:19:53:635] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.242 seconds (JVM running for 1386.985)
+[19:20:01:158] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:20:01:159] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:20:01:159] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:20:01:367] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.23 seconds (JVM running for 1394.717)
+[19:21:21:219] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:21:21:219] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:21:21:220] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:21:21:479] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.285 seconds (JVM running for 1474.829)
+[19:21:32:009] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:21:32:009] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:21:32:010] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:21:32:243] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.257 seconds (JVM running for 1485.593)
+[19:22:48:057] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:22:48:058] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:22:48:058] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:22:48:273] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.237 seconds (JVM running for 1561.622)
+[19:24:35:224] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:24:35:225] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:24:35:225] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:24:35:451] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.248 seconds (JVM running for 1668.802)
+[19:25:37:253] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:25:37:254] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:25:37:254] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:25:37:479] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.248 seconds (JVM running for 1730.829)
+[19:25:51:078] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:25:51:078] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:25:51:078] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:25:51:290] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.233 seconds (JVM running for 1744.64)
+[19:26:15:892] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:26:15:893] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:26:15:893] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:26:16:112] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.241 seconds (JVM running for 1769.462)
+[19:46:48:804] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:46:48:804] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:46:48:805] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:46:49:022] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.239 seconds (JVM running for 3002.372)
+[19:47:14:641] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:47:14:641] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:47:14:641] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:47:14:859] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.241 seconds (JVM running for 3028.209)
+[19:47:27:493] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:47:27:494] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:47:27:494] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:47:27:706] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.232 seconds (JVM running for 3041.056)
+[19:47:59:777] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:47:59:778] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:47:59:778] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:47:59:993] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.237 seconds (JVM running for 3073.343)
+[19:48:04:484] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:48:04:484] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:48:04:485] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:48:04:702] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.237 seconds (JVM running for 3078.052)
+[19:48:29:311] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:48:29:311] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:48:29:311] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:48:29:524] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.237 seconds (JVM running for 3102.873)
+[19:48:56:132] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:48:56:133] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:48:56:133] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:48:56:344] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.233 seconds (JVM running for 3129.694)
+[19:49:08:895] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:49:08:895] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:49:08:895] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:49:09:105] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.232 seconds (JVM running for 3142.455)
+[19:49:13:594] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:49:13:594] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:49:13:594] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:49:13:801] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.229 seconds (JVM running for 3147.151)
+[19:49:42:435] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:49:42:436] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:49:42:437] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:49:42:649] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.234 seconds (JVM running for 3175.999)
+[19:51:28:590] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:51:28:590] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:51:28:590] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:51:28:799] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.231 seconds (JVM running for 3282.149)
+[19:52:59:667] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:52:59:667] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:52:59:667] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:52:59:880] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.234 seconds (JVM running for 3373.23)
+[19:53:11:408] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:53:11:408] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:53:11:408] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:53:11:625] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.241 seconds (JVM running for 3384.975)
+[19:53:41:239] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:53:41:239] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:53:41:239] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:53:41:443] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.225 seconds (JVM running for 3414.793)
+[19:56:12:611] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:56:12:611] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:56:12:611] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:56:12:820] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.229 seconds (JVM running for 3566.17)
+[19:56:26:362] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[19:56:26:362] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[19:56:26:362] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[19:56:26:582] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.24 seconds (JVM running for 3579.931)
+[20:02:11:472] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:02:11:473] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:02:11:473] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:02:11:689] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.238 seconds (JVM running for 3925.039)
+[20:05:04:915] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:05:04:915] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:05:04:915] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:05:05:127] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.232 seconds (JVM running for 4098.476)
+[20:06:37:979] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:06:37:979] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:06:37:979] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:06:38:196] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.239 seconds (JVM running for 4191.546)
+[20:06:51:722] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 11828 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:06:51:722] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:06:51:722] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:06:51:923] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.222 seconds (JVM running for 4205.273)
+[20:07:45:308] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:07:45:311] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:07:45:312] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:07:45:537] [DEBUG] - org.hibernate.validator.internal.util.logging.LoggerFactory.make(LoggerFactory.java:19) - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+[20:07:47:179] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 2.06 seconds (JVM running for 2.667)
+[20:08:03:033] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:21) - データベース接続開始
+[20:08:03:200] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:25) - データベース接続成功
+[20:08:03:231] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:47) - データベース接続解除開始
+[20:08:03:232] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:49) - データベース接続解除成功
+[20:08:55:038] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:08:55:038] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:08:55:038] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:08:55:568] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.566 seconds (JVM running for 71.055)
+[20:10:33:809] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:21) - データベース接続開始
+[20:10:34:122] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:25) - データベース接続成功
+[20:10:34:141] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:47) - データベース接続解除開始
+[20:10:34:142] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:49) - データベース接続解除成功
+[20:12:49:106] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:12:49:106] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:12:49:107] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:12:49:501] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.431 seconds (JVM running for 304.989)
+[20:12:58:105] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:12:58:106] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:12:58:106] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:12:58:413] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.343 seconds (JVM running for 313.9)
+[20:13:02:933] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:13:02:934] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:13:02:935] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:13:03:228] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.324 seconds (JVM running for 318.715)
+[20:14:31:112] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:14:31:112] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:14:31:113] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:14:31:428] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.348 seconds (JVM running for 406.915)
+[20:15:26:216] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:15:26:216] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:15:26:216] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:15:26:528] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.347 seconds (JVM running for 462.016)
+[20:16:06:214] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:16:06:215] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:16:06:215] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:16:06:512] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.324 seconds (JVM running for 502.0)
+[20:16:11:414] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:21) - データベース接続開始
+[20:16:11:530] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:25) - データベース接続成功
+[20:16:11:550] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:47) - データベース接続解除開始
+[20:16:11:551] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:49) - データベース接続解除成功
+[20:16:37:162] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:16:37:162] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:16:37:162] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:16:37:430] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.294 seconds (JVM running for 532.918)
+[20:16:58:008] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:16:58:009] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:16:58:009] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:16:58:294] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.312 seconds (JVM running for 553.782)
+[20:17:16:872] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:17:16:872] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:17:16:873] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:17:17:121] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.275 seconds (JVM running for 572.609)
+[20:17:21:619] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:17:21:619] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:17:21:619] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:17:21:875] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.281 seconds (JVM running for 577.363)
+[20:19:47:008] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:19:47:009] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:19:47:009] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:19:47:265] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.281 seconds (JVM running for 722.752)
+[20:20:07:841] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:20:07:841] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:20:07:842] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:20:08:077] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.26 seconds (JVM running for 743.565)
+[20:20:09:584] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:20:09:584] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:20:09:584] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:20:09:830] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.274 seconds (JVM running for 745.317)
+[20:20:24:416] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:20:24:416] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:20:24:416] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:20:24:693] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.303 seconds (JVM running for 760.18)
+[20:20:30:282] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:20:30:282] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:20:30:282] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:20:30:516] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.259 seconds (JVM running for 766.003)
+[20:21:00:187] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:21:00:188] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:21:00:188] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:21:00:543] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.387 seconds (JVM running for 796.031)
+[20:23:33:678] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:23:33:678] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:23:33:678] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:23:33:911] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.259 seconds (JVM running for 949.398)
+[20:24:45:740] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:24:45:740] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:24:45:740] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:24:45:975] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.26 seconds (JVM running for 1021.463)
+[20:25:04:533] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:25:04:534] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:25:04:534] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:25:04:774] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.262 seconds (JVM running for 1040.261)
+[20:25:30:380] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:25:30:381] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:25:30:381] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:25:30:616] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.258 seconds (JVM running for 1066.104)
+[20:25:34:122] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:25:34:122] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:25:34:122] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:25:34:351] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.251 seconds (JVM running for 1069.838)
+[20:26:21:091] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:26:21:091] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:26:21:091] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:26:21:322] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.254 seconds (JVM running for 1116.81)
+[20:26:32:853] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:26:32:854] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:26:32:854] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:26:33:075] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.243 seconds (JVM running for 1128.563)
+[20:26:42:363] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:21) - データベース接続開始
+[20:26:42:477] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:25) - データベース接続成功
+[20:26:42:496] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:47) - データベース接続解除開始
+[20:26:42:496] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:49) - データベース接続解除成功
+[20:27:45:869] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:27:45:870] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:27:45:870] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:27:46:117] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.273 seconds (JVM running for 1201.604)
+[20:27:51:050] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:21) - データベース接続開始
+[20:27:51:270] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:25) - データベース接続成功
+[20:27:51:324] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:47) - データベース接続解除開始
+[20:27:51:325] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:49) - データベース接続解除成功
+[20:30:55:413] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:30:55:413] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:30:55:414] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:30:55:634] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.244 seconds (JVM running for 1391.122)
+[20:31:24:224] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:31:24:224] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:31:24:224] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:31:24:450] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.248 seconds (JVM running for 1419.938)
+[20:31:27:944] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:31:27:945] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:31:27:945] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:31:28:201] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.278 seconds (JVM running for 1423.689)
+[20:31:31:947] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:21) - データベース接続開始
+[20:31:32:094] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:25) - データベース接続成功
+[20:31:32:117] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:47) - データベース接続解除開始
+[20:31:32:118] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:49) - データベース接続解除成功
+[20:36:35:018] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:36:35:018] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:36:35:018] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:36:35:233] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.237 seconds (JVM running for 1730.72)
+[20:36:47:785] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:36:47:786] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:36:47:786] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:36:48:012] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.248 seconds (JVM running for 1743.499)
+[20:36:54:521] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:36:54:521] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:36:54:521] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:36:54:735] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.237 seconds (JVM running for 1750.223)
+[20:37:28:395] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:37:28:396] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:37:28:396] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:37:28:625] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.254 seconds (JVM running for 1784.112)
+[20:37:42:217] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:37:42:217] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:37:42:217] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:37:42:425] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.228 seconds (JVM running for 1797.912)
+[20:38:03:996] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:38:03:996] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:38:03:996] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:38:04:206] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.232 seconds (JVM running for 1819.694)
+[20:38:05:738] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:38:05:738] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:38:05:738] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:38:05:949] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.233 seconds (JVM running for 1821.436)
+[20:38:22:162] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:21) - データベース接続開始
+[20:38:22:405] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:25) - データベース接続成功
+[20:38:22:451] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:47) - データベース接続解除開始
+[20:38:22:452] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:49) - データベース接続解除成功
+[20:39:23:756] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:39:23:757] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:39:23:757] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:39:23:969] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.234 seconds (JVM running for 1899.456)
+[20:40:17:732] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:40:17:732] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:40:17:734] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:40:17:948] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.237 seconds (JVM running for 1953.436)
+[20:40:21:796] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:21) - データベース接続開始
+[20:40:21:994] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:25) - データベース接続成功
+[20:40:22:028] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:47) - データベース接続解除開始
+[20:40:22:029] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:49) - データベース接続解除成功
+[20:41:48:921] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:41:48:921] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:41:48:921] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:41:49:137] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.239 seconds (JVM running for 2044.624)
+[20:41:53:763] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:21) - データベース接続開始
+[20:41:53:933] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:25) - データベース接続成功
+[20:41:53:964] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:47) - データベース接続解除開始
+[20:41:53:965] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:49) - データベース接続解除成功
+[20:42:04:698] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:42:04:698] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:42:04:699] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:42:04:911] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.234 seconds (JVM running for 2060.398)
+[20:42:08:578] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:21) - データベース接続開始
+[20:42:08:777] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:25) - データベース接続成功
+[20:42:08:818] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:47) - データベース接続解除開始
+[20:42:08:819] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:49) - データベース接続解除成功
+[20:42:30:504] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:42:30:504] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:42:30:504] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:42:30:711] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.228 seconds (JVM running for 2086.198)
+[20:42:34:147] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:21) - データベース接続開始
+[20:42:34:274] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:25) - データベース接続成功
+[20:42:34:306] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:47) - データベース接続解除開始
+[20:42:34:307] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:49) - データベース接続解除成功
+[20:42:50:292] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:42:50:292] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:42:50:292] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:42:50:513] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.244 seconds (JVM running for 2106.0)
+[20:43:12:087] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:43:12:087] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:43:12:088] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:43:12:301] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.234 seconds (JVM running for 2127.789)
+[20:44:40:938] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:21) - データベース接続開始
+[20:44:41:166] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:25) - データベース接続成功
+[20:44:41:208] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:47) - データベース接続解除開始
+[20:44:41:208] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:49) - データベース接続解除成功
+[20:45:23:346] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:45:23:347] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:45:23:347] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:45:23:563] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.239 seconds (JVM running for 2259.051)
+[20:45:39:267] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:21) - データベース接続開始
+[20:45:39:435] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:25) - データベース接続成功
+[20:45:39:473] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:47) - データベース接続解除開始
+[20:45:39:474] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:49) - データベース接続解除成功
+[20:46:15:289] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:46:15:289] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:46:15:289] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:46:15:540] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.275 seconds (JVM running for 2311.027)
+[20:46:22:046] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:46:22:046] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:46:22:047] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:46:22:258] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.233 seconds (JVM running for 2317.746)
+[20:46:25:644] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:21) - データベース接続開始
+[20:46:25:809] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:25) - データベース接続成功
+[20:46:25:841] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:47) - データベース接続解除開始
+[20:46:25:842] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:49) - データベース接続解除成功
+[20:46:43:859] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:46:43:859] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:46:43:859] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:46:44:100] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.265 seconds (JVM running for 2339.588)
+[20:46:44:938] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:21) - データベース接続開始
+[20:46:45:003] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:25) - データベース接続成功
+[20:46:45:020] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:47) - データベース接続解除開始
+[20:46:45:021] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:49) - データベース接続解除成功
+[20:47:40:832] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:47:40:833] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:47:40:833] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:47:41:064] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.253 seconds (JVM running for 2396.552)
+[20:48:03:668] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:48:03:669] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:48:03:669] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:48:03:880] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.233 seconds (JVM running for 2419.368)
+[20:48:40:611] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:48:40:612] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:48:40:612] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:48:40:871] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.287 seconds (JVM running for 2456.358)
+[20:57:35:614] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:57:35:614] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:57:35:614] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:57:35:837] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.244 seconds (JVM running for 2991.324)
+[20:57:42:391] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:57:42:391] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:57:42:392] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:57:42:605] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.24 seconds (JVM running for 2998.093)
+[20:57:50:131] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:57:50:131] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:57:50:132] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:57:50:365] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.255 seconds (JVM running for 3005.852)
+[20:58:16:957] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:58:16:957] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:58:16:957] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:58:17:166] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.229 seconds (JVM running for 3032.654)
+[20:58:41:757] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:58:41:757] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:58:41:757] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:58:41:971] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.234 seconds (JVM running for 3057.458)
+[20:59:09:625] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[20:59:09:625] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[20:59:09:625] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[20:59:09:829] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.223 seconds (JVM running for 3085.317)
+[21:00:36:720] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:00:36:720] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:00:36:720] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:00:36:928] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.229 seconds (JVM running for 3172.416)
+[21:00:45:446] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:00:45:446] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:00:45:446] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:00:45:647] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.221 seconds (JVM running for 3181.135)
+[21:01:24:291] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:01:24:291] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:01:24:292] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:01:24:498] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.225 seconds (JVM running for 3219.986)
+[21:01:27:015] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:01:27:015] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:01:27:015] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:01:27:216] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.222 seconds (JVM running for 3222.704)
+[21:02:16:970] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:02:16:970] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:02:16:970] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:02:17:173] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.224 seconds (JVM running for 3272.661)
+[21:02:19:665] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:02:19:665] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:02:19:666] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:02:19:878] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.235 seconds (JVM running for 3275.366)
+[21:02:25:431] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:02:25:432] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:02:25:432] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:02:25:638] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.229 seconds (JVM running for 3281.125)
+[21:02:47:223] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:02:47:223] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:02:47:223] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:02:47:445] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.244 seconds (JVM running for 3302.933)
+[21:03:12:073] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:03:12:073] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:03:12:073] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:03:12:295] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.24 seconds (JVM running for 3327.782)
+[21:03:52:002] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:03:52:002] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:03:52:002] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:03:52:208] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.227 seconds (JVM running for 3367.696)
+[21:04:30:870] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:04:30:871] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:04:30:871] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:04:31:096] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.247 seconds (JVM running for 3406.583)
+[21:04:42:643] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:04:42:643] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:04:42:643] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:04:42:851] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.235 seconds (JVM running for 3418.338)
+[21:05:14:467] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:05:14:467] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:05:14:467] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:05:14:668] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.22 seconds (JVM running for 3450.156)
+[21:06:53:597] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:06:53:597] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:06:53:598] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:06:53:799] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.222 seconds (JVM running for 3549.286)
+[21:06:56:292] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:06:56:292] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:06:56:293] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:06:56:504] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.231 seconds (JVM running for 3551.991)
+[21:07:06:050] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:07:06:050] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:07:06:050] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:07:06:252] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.222 seconds (JVM running for 3561.74)
+[21:07:53:953] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:07:53:953] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:07:53:953] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:07:54:155] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.22 seconds (JVM running for 3609.642)
+[21:08:20:748] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:08:20:748] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:08:20:748] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:08:20:948] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.22 seconds (JVM running for 3636.436)
+[21:08:24:447] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:08:24:447] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:08:24:448] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:08:24:644] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.215 seconds (JVM running for 3640.132)
+[21:08:36:182] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:08:36:182] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:08:36:182] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:08:36:408] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.247 seconds (JVM running for 3651.895)
+[21:08:51:002] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:08:51:002] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:08:51:002] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:08:51:220] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.237 seconds (JVM running for 3666.707)
+[21:08:59:789] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:08:59:789] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:08:59:790] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:08:59:991] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.222 seconds (JVM running for 3675.479)
+[21:09:09:523] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:09:09:524] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:09:09:524] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:09:09:722] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.218 seconds (JVM running for 3685.21)
+[21:09:28:516] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:21) - データベース接続開始
+[21:09:28:761] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:25) - データベース接続成功
+[21:09:28:816] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:47) - データベース接続解除開始
+[21:09:28:817] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:49) - データベース接続解除成功
+[21:10:16:527] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:10:16:527] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:10:16:528] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:10:16:741] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.233 seconds (JVM running for 3752.228)
+[21:10:26:318] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:10:26:318] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:10:26:319] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:10:26:535] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.243 seconds (JVM running for 3762.023)
+[21:10:28:034] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:10:28:034] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:10:28:034] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:10:28:240] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.225 seconds (JVM running for 3763.727)
+[21:11:14:948] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:11:14:948] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:11:14:948] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:11:15:148] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.22 seconds (JVM running for 3810.636)
+[21:12:25:981] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:12:25:982] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:12:25:982] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:12:26:215] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.256 seconds (JVM running for 3881.703)
+[21:12:37:750] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:12:37:750] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:12:37:750] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:12:37:960] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.232 seconds (JVM running for 3893.448)
+[21:13:19:630] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:13:19:630] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:13:19:630] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:13:19:845] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.237 seconds (JVM running for 3935.333)
+[21:13:56:547] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:13:56:547] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:13:56:547] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:13:56:760] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.234 seconds (JVM running for 3972.248)
+[21:14:13:321] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:14:13:321] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:14:13:321] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:14:13:517] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.215 seconds (JVM running for 3989.005)
+[21:14:15:009] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:14:15:009] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:14:15:009] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:14:15:211] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.22 seconds (JVM running for 3990.699)
+[21:14:19:979] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:21) - データベース接続開始
+[21:14:20:258] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:25) - データベース接続成功
+[21:14:20:308] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:47) - データベース接続解除開始
+[21:14:20:309] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:49) - データベース接続解除成功
+[21:14:47:847] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:14:47:847] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:14:47:847] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:14:48:070] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.243 seconds (JVM running for 4023.558)
+[21:15:03:638] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:15:03:638] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:15:03:638] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:15:03:839] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.221 seconds (JVM running for 4039.327)
+[21:15:20:739] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:21) - データベース接続開始
+[21:15:20:954] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:25) - データベース接続成功
+[21:15:20:993] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:47) - データベース接続解除開始
+[21:15:20:994] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:49) - データベース接続解除成功
+[21:15:21:975] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:21) - データベース接続開始
+[21:15:22:134] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:25) - データベース接続成功
+[21:15:22:171] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:47) - データベース接続解除開始
+[21:15:22:172] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:49) - データベース接続解除成功
+[21:15:23:583] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:21) - データベース接続開始
+[21:15:23:729] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:25) - データベース接続成功
+[21:15:23:772] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:47) - データベース接続解除開始
+[21:15:23:773] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:49) - データベース接続解除成功
+[21:17:06:896] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:17:06:896] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:17:06:896] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:17:07:111] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.234 seconds (JVM running for 4162.598)
+[21:17:10:626] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:17:10:627] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:17:10:627] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:17:10:851] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.244 seconds (JVM running for 4166.339)
+[21:17:22:399] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:17:22:399] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:17:22:399] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:17:22:605] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.225 seconds (JVM running for 4178.093)
+[21:17:39:184] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:17:39:184] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:17:39:185] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:17:39:385] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.221 seconds (JVM running for 4194.872)
+[21:17:43:896] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:17:43:896] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:17:43:896] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:17:44:100] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.222 seconds (JVM running for 4199.588)
+[21:17:47:640] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:17:47:640] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:17:47:640] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:17:47:843] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.223 seconds (JVM running for 4203.331)
+[21:17:50:342] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:17:50:342] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:17:50:343] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:17:50:556] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.232 seconds (JVM running for 4206.044)
+[21:17:54:054] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 10624 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:17:54:054] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:17:54:055] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:17:54:246] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.211 seconds (JVM running for 4209.734)
+[21:18:35:736] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 12076 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:18:35:739] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:18:35:740] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:18:35:910] [DEBUG] - org.hibernate.validator.internal.util.logging.LoggerFactory.make(LoggerFactory.java:19) - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+[21:18:37:594] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 2.04 seconds (JVM running for 2.633)
+[21:19:32:315] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 12076 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:19:32:316] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:19:32:316] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:19:32:602] [ERROR] - org.springframework.boot.SpringApplication.reportFailure(SpringApplication.java:771) - Application startup failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'accountController' defined in file [D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes\controller\AccountController.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [controller.AccountController]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	Syntax error, insert "}" to complete ClassBody
+	Syntax error, insert "Type VariableDeclaratorId" to complete FormalParameterList
+	Syntax error on token "}", delete this token
+
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1155) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) ~[spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at controller.Application.main(Application.java:16) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_151]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [controller.AccountController]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	Syntax error, insert "}" to complete ClassBody
+	Syntax error, insert "Type VariableDeclaratorId" to complete FormalParameterList
+	Syntax error on token "}", delete this token
+
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	... 22 more
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	Syntax error, insert "}" to complete ClassBody
+	Syntax error, insert "Type VariableDeclaratorId" to complete FormalParameterList
+	Syntax error on token "}", delete this token
+
+	at controller.AccountController.<init>(AccountController.java:11) ~[classes/:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_151]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_151]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	... 22 more
+[21:19:50:132] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 12076 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:19:50:132] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:19:50:133] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:19:50:406] [ERROR] - org.springframework.boot.SpringApplication.reportFailure(SpringApplication.java:771) - Application startup failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'accountController' defined in file [D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes\controller\AccountController.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [controller.AccountController]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	Syntax error, insert "}" to complete ClassBody
+	Syntax error, insert "Type VariableDeclaratorId" to complete FormalParameterList
+	Syntax error on token "}", delete this token
+
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1155) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) ~[spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at controller.Application.main(Application.java:16) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_151]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [controller.AccountController]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	Syntax error, insert "}" to complete ClassBody
+	Syntax error, insert "Type VariableDeclaratorId" to complete FormalParameterList
+	Syntax error on token "}", delete this token
+
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	... 22 more
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	Syntax error, insert "}" to complete ClassBody
+	Syntax error, insert "Type VariableDeclaratorId" to complete FormalParameterList
+	Syntax error on token "}", delete this token
+
+	at controller.AccountController.<init>(AccountController.java:10) ~[classes/:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_151]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_151]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	... 22 more
+[21:20:41:080] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 12076 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:20:41:080] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:20:41:080] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:20:41:315] [ERROR] - org.springframework.boot.SpringApplication.reportFailure(SpringApplication.java:771) - Application startup failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'accountController' defined in file [D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes\controller\AccountController.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [controller.AccountController]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	Syntax error, insert "}" to complete ClassBody
+	Syntax error, insert "... VariableDeclaratorId" to complete FormalParameterList
+	Syntax error on token "}", delete this token
+
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1155) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) ~[spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at controller.Application.main(Application.java:16) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_151]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [controller.AccountController]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	Syntax error, insert "}" to complete ClassBody
+	Syntax error, insert "... VariableDeclaratorId" to complete FormalParameterList
+	Syntax error on token "}", delete this token
+
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	... 22 more
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	Syntax error, insert "}" to complete ClassBody
+	Syntax error, insert "... VariableDeclaratorId" to complete FormalParameterList
+	Syntax error on token "}", delete this token
+
+	at controller.AccountController.<init>(AccountController.java:10) ~[classes/:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_151]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_151]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	... 22 more
+[21:20:43:771] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 12076 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:20:43:771] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:20:43:771] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:20:43:999] [ERROR] - org.springframework.boot.SpringApplication.reportFailure(SpringApplication.java:771) - Application startup failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'accountController' defined in file [D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes\controller\AccountController.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [controller.AccountController]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	Syntax error, insert "}" to complete ClassBody
+	Syntax error, insert "... VariableDeclaratorId" to complete FormalParameterList
+	Syntax error on token "}", delete this token
+
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1155) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) ~[spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at controller.Application.main(Application.java:16) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_151]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [controller.AccountController]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	Syntax error, insert "}" to complete ClassBody
+	Syntax error, insert "... VariableDeclaratorId" to complete FormalParameterList
+	Syntax error on token "}", delete this token
+
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	... 22 more
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	Syntax error, insert "}" to complete ClassBody
+	Syntax error, insert "... VariableDeclaratorId" to complete FormalParameterList
+	Syntax error on token "}", delete this token
+
+	at controller.AccountController.<init>(AccountController.java:10) ~[classes/:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_151]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_151]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	... 22 more
+[21:20:49:464] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 12076 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:20:49:465] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:20:49:465] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:20:49:774] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.341 seconds (JVM running for 134.813)
+[21:21:24:479] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 12076 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:21:24:480] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:21:24:480] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:21:24:772] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.321 seconds (JVM running for 169.812)
+[21:21:31:841] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 8420 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:21:31:844] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:21:31:845] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:21:32:046] [DEBUG] - org.hibernate.validator.internal.util.logging.LoggerFactory.make(LoggerFactory.java:19) - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+[21:21:33:684] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 2.064 seconds (JVM running for 2.663)
+[21:21:35:706] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:21) - データベース接続開始
+[21:21:35:978] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:25) - データベース接続成功
+[21:21:36:042] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:47) - データベース接続解除開始
+[21:21:36:043] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:49) - データベース接続解除成功
+[21:21:52:341] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 8420 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:21:52:342] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:21:52:342] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:21:52:727] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.424 seconds (JVM running for 21.707)
+[21:24:15:897] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 8420 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:24:15:897] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:24:15:897] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:24:16:244] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.385 seconds (JVM running for 165.224)
+[21:24:25:828] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 8420 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[21:24:25:829] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[21:24:25:829] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[21:24:26:166] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.372 seconds (JVM running for 175.146)
+[21:24:36:878] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:21) - データベース接続開始
+[21:24:37:088] [DEBUG] - base_db.DBAccess.Connect(DBAccess.java:25) - データベース接続成功
+[21:24:37:124] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:47) - データベース接続解除開始
+[21:24:37:125] [DEBUG] - base_db.DBAccess.DisConnect(DBAccess.java:49) - データベース接続解除成功

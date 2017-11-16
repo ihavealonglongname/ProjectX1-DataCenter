@@ -1,19 +1,28 @@
-package db;
+package base_db;
 
-import org.postgresql.*;  
+import org.postgresql.*;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import controller.AccountController;
+
 import java.sql.*; 
 
 public class DBAccess {
 	
+	private final Logger logger  =  LoggerFactory.getLogger(DBAccess.class);
+	
 	private String url = "testdb.cur5zf1lggee.ap-northeast-1.rds.amazonaws.com";
 	private String dbName = "mydbtest01";
-	private Connection conn = null;
+	public Connection conn = null;
 	
 	public boolean Connect() {
-		 try{  
+		 try{
+			 logger.debug("データベース接続開始");
 	         Class.forName("org.postgresql.Driver").newInstance();  
 	         String connectUrl ="jdbc:postgresql://" + url + ":5432/" + dbName;  
 	         conn = DriverManager.getConnection(connectUrl, "pfs", "zaq1xsw2");
+	         logger.debug("データベース接続成功");
 	         
 //	         Statement st = conn.createStatement();  
 //	         String sql = " SELECT 1;";  
@@ -35,14 +44,16 @@ public class DBAccess {
 	public void DisConnect() {
 		if(conn != null) {
 			try {
+				logger.debug("データベース接続解除開始");
 				conn.close();
+				logger.debug("データベース接続解除成功");
 			}catch(Exception e) {
 				e.printStackTrace();
 			}
 		}
 	}
 	
-	public int executeSql(String sql) {
+	public int execute(String sql) {
 		if(conn != null) {
 			try {
 				Statement st = conn.createStatement(); 
@@ -56,6 +67,4 @@ public class DBAccess {
 			return -1;
 		}
 	}
-	
-	
 }
