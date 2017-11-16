@@ -1,0 +1,2 @@
+[18:04:19:862] [WARN] - ctrl.AccountController.greeting(AccountController.java:31) - Let's celcebrate12345678--warn
+[18:04:19:863] [ERROR] - ctrl.AccountController.greeting(AccountController.java:32) - Let's celcebrate12345678--error
