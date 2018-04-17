@@ -8,13 +8,16 @@ import base.ModelBase;
 public class Account extends ModelBase {
 	
 	@DB_Field(name="account")
-	private String account;
+//	private String account;
+	public String account;
 	
 	@DB_Field(name="pwd")
-	private String password;
+//	private String password;
+	public String password;
 	
 	@DB_Field(name="reg_datetime")
-	private String reg_datetime;
+//	private String reg_datetime;
+	public String reg_datetime;
 	
 	
 	public String getAccount() {

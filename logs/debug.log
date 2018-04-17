@@ -1,59 +1,28 @@
-[13:09:49:608] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:09:49:620] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:09:49:621] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:09:49:814] [DEBUG] - org.hibernate.validator.internal.util.logging.LoggerFactory.make(LoggerFactory.java:19) - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
-[13:09:51:445] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 2.014 seconds (JVM running for 2.599)
-[13:10:26:099] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:10:26:100] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:10:26:100] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:10:26:484] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.424 seconds (JVM running for 37.638)
-[13:10:45:172] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:10:45:173] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:10:45:173] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:10:45:554] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.42 seconds (JVM running for 56.707)
-[13:10:52:144] [INFO] - base_db.DBAccessor.getConnection(DBAccessor.java:57) - getConnection
-[13:10:52:240] [INFO] - base_db.DBAccessor.release(DBAccessor.java:73) - release
-[13:10:52:240] [INFO] - base_db.DBAccessor.release(DBAccessor.java:96) - conn.close()
-[13:11:12:243] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:11:12:244] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:11:12:244] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:11:12:569] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.357 seconds (JVM running for 83.722)
-[13:11:30:216] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:11:30:217] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:11:30:217] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:11:30:514] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.328 seconds (JVM running for 101.668)
-[13:12:07:210] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:12:07:211] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:12:07:211] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:12:07:519] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.337 seconds (JVM running for 138.672)
-[13:12:36:192] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:12:36:192] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:12:36:193] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:12:36:466] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.304 seconds (JVM running for 167.619)
-[13:14:12:522] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:14:12:523] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:14:12:523] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:14:12:826] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.333 seconds (JVM running for 263.979)
-[13:15:25:705] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:15:25:705] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:15:25:705] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:15:25:907] [ERROR] - org.springframework.boot.SpringApplication.reportFailure(SpringApplication.java:771) - Application startup failed
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'accountService' defined in file [D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes\service\AccountService.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [service.AccountService]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
-	AccountCtrl cannot be resolved to a type
-	ServiceBase<AccountCtrl> cannot be resolved to a type
-
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1155) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) ~[spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+[14:59:49:329] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 8156 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[14:59:49:517] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[14:59:49:517] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[14:59:50:139] [DEBUG] - org.hibernate.validator.internal.util.logging.LoggerFactory.make(LoggerFactory.java:19) - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+[14:59:50:165] [DEBUG] - org.hibernate.validator.internal.util.logging.LoggerFactory.make(LoggerFactory.java:19) - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+[14:59:57:139] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 8.53 seconds (JVM running for 11.792)
+[14:59:56:985] [ERROR] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:181) - Failed to start end point associated with ProtocolHandler ["http-nio-8080"]
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method) ~[?:1.8.0_151]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[?:1.8.0_151]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[?:1.8.0_151]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source) ~[?:1.8.0_151]
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source) ~[?:1.8.0_151]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210) ~[tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:990) ~[tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:635) [tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1022) [tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) [tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225) [tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:250) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:193) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:297) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:145) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546) [spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
 	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
 	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
@@ -65,47 +34,16 @@ org.springframework.beans.factory.BeanCreationException: Error creating bean wit
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
 	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_151]
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [service.AccountService]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
-	AccountCtrl cannot be resolved to a type
-	ServiceBase<AccountCtrl> cannot be resolved to a type
-
-	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	... 22 more
-Caused by: java.lang.Error: Unresolved compilation problems: 
-	AccountCtrl cannot be resolved to a type
-	ServiceBase<AccountCtrl> cannot be resolved to a type
-
-	at service.AccountService.<init>(AccountService.java:11) ~[classes/:?]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_151]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	... 22 more
-[13:16:40:742] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:16:40:742] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:16:40:742] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:16:40:949] [ERROR] - org.springframework.boot.SpringApplication.reportFailure(SpringApplication.java:771) - Application startup failed
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'accountService' defined in file [D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes\service\AccountService.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [service.AccountService]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
-	AccountCtrl cannot be resolved to a type
-	ServiceBase<AccountCtrl> cannot be resolved to a type
-
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1155) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) ~[spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+[14:59:57:155] [ERROR] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:181) - Failed to start connector [Connector[HTTP/1.1-8080]]
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-8080]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167) ~[tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225) [tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:250) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:193) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:297) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:145) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546) [spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
 	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
 	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
@@ -117,46 +55,63 @@ org.springframework.beans.factory.BeanCreationException: Error creating bean wit
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
 	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_151]
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [service.AccountService]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
-	AccountCtrl cannot be resolved to a type
-	ServiceBase<AccountCtrl> cannot be resolved to a type
+Caused by: org.apache.catalina.LifecycleException: service.getName(): "Tomcat";  Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1031) ~[tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) ~[tomcat-embed-core-8.5.23.jar:8.5.23]
+	... 18 more
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method) ~[?:1.8.0_151]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[?:1.8.0_151]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[?:1.8.0_151]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source) ~[?:1.8.0_151]
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source) ~[?:1.8.0_151]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210) ~[tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:990) ~[tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:635) ~[tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1022) ~[tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) ~[tomcat-embed-core-8.5.23.jar:8.5.23]
+	... 18 more
+[14:59:57:449] [ERROR] - org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter.report(LoggingFailureAnalysisReporter.java:42) - 
 
-	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	... 22 more
-Caused by: java.lang.Error: Unresolved compilation problems: 
-	AccountCtrl cannot be resolved to a type
-	ServiceBase<AccountCtrl> cannot be resolved to a type
+***************************
+APPLICATION FAILED TO START
+***************************
 
-	at service.AccountService.<init>(AccountService.java:11) ~[classes/:?]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_151]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	... 22 more
-[13:17:04:519] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:17:04:519] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:17:04:519] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:17:04:729] [ERROR] - org.springframework.boot.SpringApplication.reportFailure(SpringApplication.java:771) - Application startup failed
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'accountService' defined in file [D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes\service\AccountService.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [service.AccountService]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problem: 
-	AccountCtrl cannot be resolved to a type
+Description:
 
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1155) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) ~[spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8080, or configure this application to listen on another port.
+
+[15:00:11:825] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 6864 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[15:00:11:825] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[15:00:11:825] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[15:00:12:618] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.83 seconds (JVM running for 27.271)
+[15:00:13:559] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 600 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[15:00:13:562] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[15:00:13:562] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[15:00:13:792] [DEBUG] - org.hibernate.validator.internal.util.logging.LoggerFactory.make(LoggerFactory.java:19) - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+[15:00:15:693] [ERROR] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:181) - Failed to start end point associated with ProtocolHandler ["http-nio-8082"]
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method) ~[?:1.8.0_151]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[?:1.8.0_151]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[?:1.8.0_151]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source) ~[?:1.8.0_151]
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source) ~[?:1.8.0_151]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210) ~[tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:990) ~[tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:635) [tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1022) [tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) [tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225) [tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:250) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:193) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:297) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:145) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546) [spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
 	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
 	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
@@ -168,104 +123,16 @@ org.springframework.beans.factory.BeanCreationException: Error creating bean wit
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
 	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_151]
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [service.AccountService]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problem: 
-	AccountCtrl cannot be resolved to a type
-
-	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	... 22 more
-Caused by: java.lang.Error: Unresolved compilation problem: 
-	AccountCtrl cannot be resolved to a type
-
-	at service.AccountService.<init>(AccountService.java:11) ~[classes/:?]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_151]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	... 22 more
-[13:17:23:282] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:17:23:283] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:17:23:283] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:17:23:566] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.31 seconds (JVM running for 454.719)
-[13:17:39:188] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:17:39:188] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:17:39:188] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:17:39:447] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.285 seconds (JVM running for 470.601)
-[13:17:48:011] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:17:48:012] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:17:48:012] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:17:48:262] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.276 seconds (JVM running for 479.416)
-[13:19:18:221] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:19:18:222] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:19:18:222] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:19:18:480] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.29 seconds (JVM running for 569.634)
-[13:20:56:692] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:20:56:692] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:20:56:692] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:20:56:968] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.303 seconds (JVM running for 668.122)
-[13:21:41:748] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:21:41:748] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:21:41:749] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:21:42:054] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.33 seconds (JVM running for 713.208)
-[13:22:49:943] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:22:49:943] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:22:49:943] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:22:50:194] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.275 seconds (JVM running for 781.347)
-[13:22:55:719] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:22:55:720] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:22:55:720] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:22:55:988] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.3 seconds (JVM running for 787.142)
-[13:23:06:603] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:23:06:604] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:23:06:604] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:23:06:842] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.263 seconds (JVM running for 797.996)
-[13:23:29:442] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:23:29:442] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:23:29:442] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:23:29:689] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.27 seconds (JVM running for 820.843)
-[13:23:40:236] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:23:40:237] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:23:40:237] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:23:40:480] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.266 seconds (JVM running for 831.633)
-[13:23:45:981] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:23:45:981] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:23:45:982] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:23:46:219] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.261 seconds (JVM running for 837.373)
-[13:24:21:940] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:24:21:941] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:24:21:941] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:24:22:175] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.259 seconds (JVM running for 873.329)
-[13:25:15:997] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:25:15:997] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:25:15:998] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:25:16:287] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.317 seconds (JVM running for 927.441)
-[13:25:32:857] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:25:32:857] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:25:32:857] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:25:33:091] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.259 seconds (JVM running for 944.244)
-[13:26:30:917] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:26:30:917] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:26:30:918] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:26:31:093] [ERROR] - org.springframework.boot.SpringApplication.reportFailure(SpringApplication.java:771) - Application startup failed
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'accountService' defined in file [D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes\service\AccountService.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [service.AccountService]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problem: 
-	Unhandled exception type NoSuchFieldException
-
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1155) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) ~[spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+[15:00:15:740] [ERROR] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:181) - Failed to start connector [Connector[HTTP/1.1-8082]]
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-8082]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167) ~[tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225) [tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:250) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:193) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:297) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:145) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546) [spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
 	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
 	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
@@ -277,579 +144,42 @@ org.springframework.beans.factory.BeanCreationException: Error creating bean wit
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
 	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_151]
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [service.AccountService]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problem: 
-	Unhandled exception type NoSuchFieldException
+Caused by: org.apache.catalina.LifecycleException: service.getName(): "Tomcat";  Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1031) ~[tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) ~[tomcat-embed-core-8.5.23.jar:8.5.23]
+	... 18 more
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method) ~[?:1.8.0_151]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[?:1.8.0_151]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[?:1.8.0_151]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source) ~[?:1.8.0_151]
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source) ~[?:1.8.0_151]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210) ~[tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:990) ~[tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:635) ~[tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1022) ~[tomcat-embed-core-8.5.23.jar:8.5.23]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) ~[tomcat-embed-core-8.5.23.jar:8.5.23]
+	... 18 more
+[15:00:15:805] [ERROR] - org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter.report(LoggingFailureAnalysisReporter.java:42) - 
 
-	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	... 22 more
-Caused by: java.lang.Error: Unresolved compilation problem: 
-	Unhandled exception type NoSuchFieldException
+***************************
+APPLICATION FAILED TO START
+***************************
 
-	at base.ServiceBase.<init>(ServiceBase.java:16) ~[classes/:?]
-	at service.AccountService.<init>(AccountService.java:12) ~[classes/:?]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_151]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	... 22 more
-[13:28:17:076] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:28:17:077] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:28:17:077] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:28:17:260] [ERROR] - org.springframework.boot.SpringApplication.reportFailure(SpringApplication.java:771) - Application startup failed
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'accountService' defined in file [D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes\service\AccountService.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [service.AccountService]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
-	obj cannot be resolved to a variable
-	Syntax error, insert ";" to complete Statement
+Description:
 
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1155) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) ~[spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at service.Application.main(Application.java:9) [classes/:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_151]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_151]
-	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [service.AccountService]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
-	obj cannot be resolved to a variable
-	Syntax error, insert ";" to complete Statement
+The Tomcat connector configured to listen on port 8082 failed to start. The port may already be in use or the connector may be misconfigured.
 
-	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	... 22 more
-Caused by: java.lang.Error: Unresolved compilation problems: 
-	obj cannot be resolved to a variable
-	Syntax error, insert ";" to complete Statement
+Action:
 
-	at base.ServiceBase.<init>(ServiceBase.java:22) ~[classes/:?]
-	at service.AccountService.<init>(AccountService.java:12) ~[classes/:?]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_151]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	... 22 more
-[13:28:37:810] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:28:37:811] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:28:37:811] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:28:38:040] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.256 seconds (JVM running for 1129.194)
-[13:28:50:599] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:28:50:599] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:28:50:600] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:28:50:826] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.25 seconds (JVM running for 1141.98)
-[13:29:57:647] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:29:57:647] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:29:57:647] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:29:57:869] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.247 seconds (JVM running for 1209.023)
-[13:30:27:519] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 4524 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:30:27:519] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:30:27:519] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:30:27:736] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.239 seconds (JVM running for 1238.89)
-[13:32:01:550] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:32:01:554] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:32:01:554] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:32:01:776] [DEBUG] - org.hibernate.validator.internal.util.logging.LoggerFactory.make(LoggerFactory.java:19) - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
-[13:32:03:564] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 2.201 seconds (JVM running for 2.836)
-[13:32:37:262] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:32:37:262] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:32:37:262] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:32:37:690] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.467 seconds (JVM running for 36.962)
-[13:32:57:324] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:32:57:324] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:32:57:324] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:32:57:669] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.386 seconds (JVM running for 56.942)
-[13:33:45:488] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:33:45:488] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:33:45:488] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:33:45:816] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.361 seconds (JVM running for 105.088)
-[13:34:10:500] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:34:10:501] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:34:10:501] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:34:10:800] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.331 seconds (JVM running for 130.072)
-[13:36:20:937] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:36:20:938] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:36:20:938] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:36:21:284] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.379 seconds (JVM running for 260.555)
-[13:36:22:806] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:36:22:806] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:36:22:807] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:36:23:093] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.317 seconds (JVM running for 262.364)
-[13:36:40:675] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:36:40:676] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:36:40:676] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:36:40:971] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.326 seconds (JVM running for 280.243)
-[13:37:25:757] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:37:25:758] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:37:25:758] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:37:26:042] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.312 seconds (JVM running for 325.314)
-[13:38:15:835] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:38:15:835] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:38:15:835] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:38:16:116] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.31 seconds (JVM running for 375.388)
-[13:42:01:799] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:42:01:799] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:42:01:799] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:42:02:070] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.297 seconds (JVM running for 601.342)
-[13:42:12:618] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:42:12:619] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:42:12:619] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:42:12:897] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.305 seconds (JVM running for 612.169)
-[13:42:32:516] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:42:32:516] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:42:32:517] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:42:32:765] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.275 seconds (JVM running for 632.037)
-[13:43:08:421] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:43:08:421] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:43:08:421] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:43:08:675] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.279 seconds (JVM running for 667.946)
-[13:43:44:338] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:43:44:338] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:43:44:338] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:43:44:603] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.293 seconds (JVM running for 703.874)
-[13:44:53:514] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:44:53:514] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:44:53:514] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:44:53:811] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.326 seconds (JVM running for 773.083)
-[13:45:42:597] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:45:42:597] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:45:42:597] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:45:42:876] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.304 seconds (JVM running for 822.149)
-[13:45:55:468] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:45:55:468] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:45:55:469] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:45:55:719] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.275 seconds (JVM running for 834.991)
-[13:46:34:395] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:46:34:396] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:46:34:396] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:46:34:638] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.266 seconds (JVM running for 873.91)
-[13:47:05:313] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:47:05:314] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:47:05:314] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:47:05:579] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.293 seconds (JVM running for 904.851)
-[13:47:07:232] [INFO] - base_db.DBAccessor.getConnection(DBAccessor.java:57) - getConnection
-[13:47:07:316] [INFO] - base_db.DBAccessor.release(DBAccessor.java:73) - release
-[13:47:07:317] [INFO] - base_db.DBAccessor.release(DBAccessor.java:96) - conn.close()
-[13:47:44:337] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:47:44:338] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:47:44:338] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:47:44:601] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.293 seconds (JVM running for 943.873)
-[13:47:47:165] [INFO] - base_db.DBAccessor.getConnection(DBAccessor.java:57) - getConnection
-[13:47:47:215] [INFO] - base_db.DBAccessor.release(DBAccessor.java:73) - release
-[13:47:47:216] [INFO] - base_db.DBAccessor.release(DBAccessor.java:96) - conn.close()
-[13:48:29:728] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:48:29:729] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:48:29:729] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:48:29:919] [ERROR] - org.springframework.boot.SpringApplication.reportFailure(SpringApplication.java:771) - Application startup failed
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'accountService' defined in file [D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes\service\AccountService.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [service.AccountService]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
-	Unhandled exception type InstantiationException
-	Unhandled exception type IllegalAccessException
+Verify the connector's configuration, identify and stop any process that's listening on port 8082, or configure this application to listen on another port.
 
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1155) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) ~[spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at service.Application.main(Application.java:9) [classes/:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_151]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_151]
-	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [service.AccountService]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
-	Unhandled exception type InstantiationException
-	Unhandled exception type IllegalAccessException
-
-	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	... 22 more
-Caused by: java.lang.Error: Unresolved compilation problems: 
-	Unhandled exception type InstantiationException
-	Unhandled exception type IllegalAccessException
-
-	at base.ServiceBase.<init>(ServiceBase.java:17) ~[classes/:?]
-	at service.AccountService.<init>(AccountService.java:12) ~[classes/:?]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_151]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	... 22 more
-[13:48:48:459] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:48:48:459] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:48:48:459] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:48:48:698] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.261 seconds (JVM running for 1007.97)
-[13:51:05:933] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:51:05:933] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:51:05:933] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:51:06:126] [ERROR] - org.springframework.boot.SpringApplication.reportFailure(SpringApplication.java:771) - Application startup failed
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'accountService' defined in file [D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes\service\AccountService.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [service.AccountService]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
-	Incorrect number of arguments for type ServiceBase<controller,model_data>; it cannot be parameterized with arguments <AccountController>
-	The method queryAll() is undefined for the type Object
-
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1155) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) ~[spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at service.Application.main(Application.java:9) [classes/:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_151]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_151]
-	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [service.AccountService]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
-	Incorrect number of arguments for type ServiceBase<controller,model_data>; it cannot be parameterized with arguments <AccountController>
-	The method queryAll() is undefined for the type Object
-
-	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	... 22 more
-Caused by: java.lang.Error: Unresolved compilation problems: 
-	Incorrect number of arguments for type ServiceBase<controller,model_data>; it cannot be parameterized with arguments <AccountController>
-	The method queryAll() is undefined for the type Object
-
-	at service.AccountService.<init>(AccountService.java:12) ~[classes/:?]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_151]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	... 22 more
-[13:51:09:574] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:51:09:574] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:51:09:574] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:51:09:764] [ERROR] - org.springframework.boot.SpringApplication.reportFailure(SpringApplication.java:771) - Application startup failed
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'accountService' defined in file [D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes\service\AccountService.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [service.AccountService]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
-	Incorrect number of arguments for type ServiceBase<controller,model_data>; it cannot be parameterized with arguments <AccountController>
-	The method queryAll() is undefined for the type Object
-
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1155) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) ~[spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at service.Application.main(Application.java:9) [classes/:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_151]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_151]
-	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [service.AccountService]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
-	Incorrect number of arguments for type ServiceBase<controller,model_data>; it cannot be parameterized with arguments <AccountController>
-	The method queryAll() is undefined for the type Object
-
-	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	... 22 more
-Caused by: java.lang.Error: Unresolved compilation problems: 
-	Incorrect number of arguments for type ServiceBase<controller,model_data>; it cannot be parameterized with arguments <AccountController>
-	The method queryAll() is undefined for the type Object
-
-	at service.AccountService.<init>(AccountService.java:12) ~[classes/:?]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_151]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	... 22 more
-[13:51:33:358] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:51:33:359] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:51:33:359] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:51:33:551] [ERROR] - org.springframework.boot.SpringApplication.reportFailure(SpringApplication.java:771) - Application startup failed
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'accountService' defined in file [D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes\service\AccountService.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [service.AccountService]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
-	Incorrect number of arguments for type ServiceBase<controller,model_data>; it cannot be parameterized with arguments <AccountController>
-	The method queryAll() is undefined for the type Object
-
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1155) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) ~[spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at service.Application.main(Application.java:9) [classes/:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_151]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_151]
-	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [service.AccountService]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
-	Incorrect number of arguments for type ServiceBase<controller,model_data>; it cannot be parameterized with arguments <AccountController>
-	The method queryAll() is undefined for the type Object
-
-	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	... 22 more
-Caused by: java.lang.Error: Unresolved compilation problems: 
-	Incorrect number of arguments for type ServiceBase<controller,model_data>; it cannot be parameterized with arguments <AccountController>
-	The method queryAll() is undefined for the type Object
-
-	at service.AccountService.<init>(AccountService.java:12) ~[classes/:?]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_151]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	... 22 more
-[13:52:11:178] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:52:11:178] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:52:11:178] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:52:11:346] [ERROR] - org.springframework.boot.SpringApplication.reportFailure(SpringApplication.java:771) - Application startup failed
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'accountService' defined in file [D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes\service\AccountService.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [service.AccountService]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
-	Incorrect number of arguments for type ServiceBase<controller,model_data>; it cannot be parameterized with arguments <AccountController>
-	The method queryAll() is undefined for the type Object
-
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1155) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) ~[spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at service.Application.main(Application.java:9) [classes/:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_151]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_151]
-	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [service.AccountService]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
-	Incorrect number of arguments for type ServiceBase<controller,model_data>; it cannot be parameterized with arguments <AccountController>
-	The method queryAll() is undefined for the type Object
-
-	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	... 22 more
-Caused by: java.lang.Error: Unresolved compilation problems: 
-	Incorrect number of arguments for type ServiceBase<controller,model_data>; it cannot be parameterized with arguments <AccountController>
-	The method queryAll() is undefined for the type Object
-
-	at service.AccountService.<init>(AccountService.java:12) ~[classes/:?]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_151]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	... 22 more
-[13:52:27:867] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:52:27:867] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:52:27:867] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:52:28:053] [ERROR] - org.springframework.boot.SpringApplication.reportFailure(SpringApplication.java:771) - Application startup failed
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'accountService' defined in file [D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes\service\AccountService.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [service.AccountService]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
-	Incorrect number of arguments for type ServiceBase<controller,model_data>; it cannot be parameterized with arguments <AccountController>
-	The method queryAll() is undefined for the type Object
-
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1155) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) ~[spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at service.Application.main(Application.java:9) [classes/:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_151]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_151]
-	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [service.AccountService]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
-	Incorrect number of arguments for type ServiceBase<controller,model_data>; it cannot be parameterized with arguments <AccountController>
-	The method queryAll() is undefined for the type Object
-
-	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	... 22 more
-Caused by: java.lang.Error: Unresolved compilation problems: 
-	Incorrect number of arguments for type ServiceBase<controller,model_data>; it cannot be parameterized with arguments <AccountController>
-	The method queryAll() is undefined for the type Object
-
-	at service.AccountService.<init>(AccountService.java:12) ~[classes/:?]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_151]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	... 22 more
-[13:53:09:728] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:53:09:728] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:53:09:729] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:53:09:968] [ERROR] - org.springframework.boot.SpringApplication.reportFailure(SpringApplication.java:771) - Application startup failed
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'accountService' defined in file [D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes\service\AccountService.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [service.AccountService]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
-	Incorrect number of arguments for type ServiceBase<controller,model_data>; it cannot be parameterized with arguments <AccountController>
-	The method queryAll() is undefined for the type Object
-
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1155) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543) ~[spring-context-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) ~[spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107) [spring-boot-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-	at service.Application.main(Application.java:9) [classes/:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_151]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_151]
-	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-1.5.8.RELEASE.jar:1.5.8.RELEASE]
-Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [service.AccountService]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
-	Incorrect number of arguments for type ServiceBase<controller,model_data>; it cannot be parameterized with arguments <AccountController>
-	The method queryAll() is undefined for the type Object
-
-	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	... 22 more
-Caused by: java.lang.Error: Unresolved compilation problems: 
-	Incorrect number of arguments for type ServiceBase<controller,model_data>; it cannot be parameterized with arguments <AccountController>
-	The method queryAll() is undefined for the type Object
-
-	at service.AccountService.<init>(AccountService.java:12) ~[classes/:?]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_151]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_151]
-	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.12.RELEASE.jar:4.3.12.RELEASE]
-	... 22 more
-[13:53:20:462] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:53:20:463] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:53:20:463] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:53:20:698] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.258 seconds (JVM running for 1279.971)
-[13:53:28:258] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:53:28:259] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:53:28:259] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:53:28:496] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.26 seconds (JVM running for 1287.768)
-[13:53:32:230] [INFO] - base_db.DBAccessor.getConnection(DBAccessor.java:57) - getConnection
-[13:53:32:280] [INFO] - base_db.DBAccessor.release(DBAccessor.java:73) - release
-[13:53:32:280] [INFO] - base_db.DBAccessor.release(DBAccessor.java:96) - conn.close()
-[13:53:53:166] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:53:53:167] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:53:53:168] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:53:53:485] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.343 seconds (JVM running for 1312.757)
-[13:53:55:979] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:53:55:979] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:53:55:979] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:53:56:202] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.245 seconds (JVM running for 1315.474)
-[13:56:37:574] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:56:37:575] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:56:37:575] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:56:37:812] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.26 seconds (JVM running for 1477.084)
-[13:58:40:051] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 1816 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
-[13:58:40:052] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
-[13:58:40:052] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
-[13:58:40:288] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.26 seconds (JVM running for 1599.56)
+[15:00:50:372] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 6864 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[15:00:50:373] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[15:00:50:373] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[15:00:51:146] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 0.81 seconds (JVM running for 65.799)
+[15:01:00:572] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48) - Starting Application on DESKTOP-KNFU3RB with PID 6584 (D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter\target\classes started by bretwang in D:\p-wang\2017\workspace\eclipse\ProjectX1-DataCenter)
+[15:01:00:575] [DEBUG] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:51) - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[15:01:00:577] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+[15:01:00:800] [DEBUG] - org.hibernate.validator.internal.util.logging.LoggerFactory.make(LoggerFactory.java:19) - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+[15:01:02:733] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57) - Started Application in 2.362 seconds (JVM running for 3.0)
